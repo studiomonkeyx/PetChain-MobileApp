@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "crypto-js": "^4.2.0",
+    "react-native-keychain": "^10.0.0"
+  },
+  "devDependencies": {
+    "@types/crypto-js": "^4.2.2"
+  }
+}
