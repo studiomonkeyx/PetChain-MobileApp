@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Ndifreke000/PetChain-MobileApp#readme",
   "dependencies": {
+    "@react-native-async-storage/async-storage": "^2.2.0",
     "axios": "^1.13.5"
   },
   "devDependencies": {
